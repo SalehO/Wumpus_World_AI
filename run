@@ -1,5 +1,0 @@
-#!/bin/bash
-
-make
-cd bin
-./Wumpus_World -d
